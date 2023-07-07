@@ -1,0 +1,18 @@
+Class Name: COSC 1437
+Class Students: Kevin,  Michael,  Steven,  Sam,  Jennifer,  Michele,  Tom, 
+New Class ID: 2397412
+Attendance report for 01/01/2020 to 01/02/2020:
+ Jennifer: 1
+ Michele: 1
+ Sam: 2
+ Steven: 1
+ Tom: 2
+Kevin: 2
+Exam Grades for: Test
+Kevin: 56
+ Michael: 8
+ Steven: 78
+ Sam: 45
+ Jennifer: 68
+ Michele: 45
+ Tom: 87
