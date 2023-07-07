@@ -1,0 +1,5 @@
+Student Name: Bob
+Student Email: bobross126345@gmail.com
+Updated Student Name: Kevin
+Updated Student ID: 12353132
+Attendance marked for 2023-04-04, Status: present
